@@ -169,7 +169,7 @@ def main():
     # How It Works Section
     st.header("🔍 How It Works")
     st.markdown("""
-    1. Input session details such as start time, charge duration, and facility type.
+    1. **Open sidebar** and input session details such as start time, charge duration, and facility type.
     2. Click on **Predict Energy Consumption**.
     3. Get an instant prediction along with visual insights to optimize energy usage.
     """)    
